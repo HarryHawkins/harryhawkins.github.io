@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about me coming soon!
+A little bit about me...
 
 ### More Information
 
-A place to include any other types of information that i'd like to include about yourself. Coming soon
+Hi! I'm Harry, I have just finished my BSc in Computing for Business and Management at the university of sussex. I set up this website as a place to post things I want to share, as well as showcase some interesting work or articles!
 
