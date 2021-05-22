@@ -1,30 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Harry Hawkins</title>
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
-  </head>
-<body>
-	<div class="wrapper">
-	  
-	  <div class="left">
-		<img class="profile-picture" src="img/profilepic.jpg" width="200"/>
-		<h1 class="name">Harry Hawkins</h1>
-		<h4 class="subtitle">CS Student</h4>
-	  </div>
-	  
-	  <div class="right">
-		<p class="bio">
-		  Computing for Business and Management student
-		  Thanks for visiting my website.
-		</p>
-		<ul class="social-links">
-		  <li><a href="https://github.com/harryhawkins">Github</a></li>
-		  <li><a href="https://www.linkedin.com/in/harryjhawkins/">LinkedIn</a></li>
-		</ul>
-	  </div>
-	  
-	</div>
-  </body>
-  </html>
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
