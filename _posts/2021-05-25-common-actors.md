@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Showcase 1 common-actors
+title: Project Showcase common-actors
 ---
 
 [common-actors](https://github.com/HarryHawkins/common-actors) is a simple Python script that returns common actors (and actresses) from movies specified by the user.
