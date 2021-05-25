@@ -5,7 +5,7 @@ title: Project Showcase 1 common-actors
 
 [common-actors](https://github.com/HarryHawkins/common-actors) is a simple Python script that returns common actors (and actresses) from movies specified by the user.
 
-It uses the **IMDbPY** python package (https://imdbpy.github.io/)
+It uses the [IMDbPY](https://imdbpy.github.io/) python package. 
 I created this script because I couldn't remember the name of an actor, but I could think of some movies that he was in. This script found the Actor for me. 
 
 It is very simple to use...
