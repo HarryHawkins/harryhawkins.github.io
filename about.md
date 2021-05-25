@@ -21,7 +21,6 @@ Hi! I'm Harry, I have just finished my BSc in Computing for Business and Managem
 - Guitar
 - Programming
 - Cycling
-- Music (Electronic/Rock/Metal, pretty much everything)
 
 ### Github stats
 
