@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: art-home
 title: Art
 permalink: /art/
 ---
