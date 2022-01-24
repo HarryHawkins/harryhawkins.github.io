@@ -1,0 +1,19 @@
+
+---
+layout: default
+---
+
+<div class="art">
+  {% for art in site.arts %}
+    <article class="art">
+
+      <h1><a href="{{ site.baseurl }}{{ art.url }}">{{ art.title }}</a></h1>
+
+      <div class="entry">
+        {{ art.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ art.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
