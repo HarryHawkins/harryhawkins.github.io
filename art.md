@@ -4,8 +4,6 @@ title: Art
 permalink: /art/
 ---
 
-## Art
-
 Posting drawings here...pending.
 .
 .
