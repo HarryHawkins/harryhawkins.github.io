@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Harry, I'm an Associate Solution Engineer, Success Graduate at [Salesforce](https://www.salesforce.com/eu/).
+Hi! I'm Harry
 I graduated in 2021 from the University of Sussex with a First Class Honours in BSc Computing (for Business and Management). 
 I set up this website as a place to post things I want to share, as well as showcase some interesting work or articles!
 
@@ -22,7 +22,6 @@ I set up this website as a place to post things I want to share, as well as show
 - Kayaking
 - Guitar
 - Cloud Computing
-- CRM
 - Technology
 - Programming
 - Cycling
