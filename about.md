@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 Hi! I'm Harry
+
+Last update - July 2021
+
 I graduated in 2021 from the University of Sussex with a First Class Honours in BSc Computing (for Business and Management). 
 I set up this website as a place to post things I want to share, as well as showcase some interesting work or articles!
 
