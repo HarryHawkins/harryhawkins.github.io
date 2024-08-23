@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My university final project
+title: A Cloud-Based Solution to Industrial Internet of Things Server Monitoring
 ---
 
-[A cloud based solution to IIoT server monitoring](https://github.com/HarryHawkins/CBSISM) was my final year project at university, check it out if it interests you! P.s. This was written in 2021, many apologies if you are reading it in the future and technology has moved on!
+[A Cloud-Based Solution to Industrial Internet of Things Server Monitoring](https://github.com/HarryHawkins/CBSISM) was my final year project at university, check it out if it interests you! P.s. This was written in 2021, many apologies if you are reading it in the future and technology has moved on!
 
 For my final year project, I developed a cloud-based solution for monitoring Industrial Internet of Things (IIoT) servers, focusing on creating a scalable, flexible, and user-friendly system. The project involved selecting a curated set of open-source technologies, programming languages, and frameworks to build an efficient monitoring platform. This platform enables industrial businesses to monitor their IIoT devices, such as those found in wind farms and power stations, without the need for expensive enterprise software.
 
