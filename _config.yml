@@ -63,7 +63,7 @@ pageviews:
   provider: ""
 
 # Theme color mode (empty = system default, can be 'light' or 'dark')
-theme_mode: ""
+theme_mode: # [light | dark]
 
 # CDN URL (optional)
 cdn: ""
