@@ -1,0 +1,166 @@
+# The Site Configuration
+
+# Import the theme
+theme: jekyll-theme-chirpy
+
+# The language of the webpage
+lang: en
+
+# Timezone (optional, fill if you want)
+timezone: ""
+
+# SEO settings
+title: Harry Hawkins                # from old config: name
+tagline: Thanks for visiting.       # from old config: description
+description: >-
+  Thanks for visiting.              # same as tagline or a short site description
+
+# Site URL
+url: "https://harryhawkins.com"    # fill your actual site URL
+
+# GitHub username for links etc.
+github:
+  username: harryhawkins            # your GitHub username
+
+# Twitter username (if you have one, else keep blank)
+twitter:
+  username: ""
+
+# Social info (fill with your details or leave blank)
+social:
+  name: Harry Hawkins               # your full name
+  email: ""                        # no email in old config, you can add if want
+  links:
+    - "https://github.com/harryhawkins"  # your GitHub profile link
+
+# Webmaster verifications (optional)
+webmaster_verifications:
+  google: ""
+  bing: ""
+  alexa: ""
+  yandex: ""
+  baidu: ""
+  facebook: ""
+
+# Analytics settings (empty for now, add your tracking ID if you want)
+analytics:
+  google:
+    id: ""
+  goatcounter:
+    id: ""
+  umami:
+    id: ""
+    domain: ""
+  matomo:
+    id: ""
+    domain: ""
+  cloudflare:
+    id: ""
+  fathom:
+    id: ""
+
+pageviews:
+  provider: ""
+
+# Theme color mode (empty = system default, can be 'light' or 'dark')
+theme_mode: ""
+
+# CDN URL (optional)
+cdn: ""
+
+# Sidebar avatar (from old config)
+avatar: "/assets/img/headshot2.png"
+
+# SEO social preview image (optional)
+social_preview_image: ""
+
+# Enable table of contents in posts
+toc: true
+
+# Comments system (leave disabled for now, or add your Disqus shortname)
+comments:
+  provider: false
+
+# Static assets self-hosting (disabled)
+assets:
+  self_host:
+    enabled: false
+    env: ""
+
+# PWA settings (keep enabled if you want the installable feature)
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+    deny_paths: []
+
+# Pagination
+paginate: 10
+
+# Base URL (empty because your site is root domain)
+baseurl: ""
+
+# Kramdown and syntax highlighting settings (carry over old config)
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# Collections (default Chirpy tabs collection)
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+# Default front matter settings for posts and tabs
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+# Sass style (old config had expanded, Chirpy uses compressed - keeping compressed)
+sass:
+  style: compressed
+
+# HTML compression options
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+# Files and folders to exclude from build (keeping old ones + Chirpy defaults)
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
