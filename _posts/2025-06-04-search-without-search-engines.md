@@ -21,12 +21,14 @@ This changes the game completely. Instead of clicking through ads or landing pag
 For software companies, this means **the battle for visibility is shifting from SEO to LLM fluency**. Your product needs to be well-documented, widely mentioned in reputable sources, and present in the data that LLMs are trained or grounded on. Otherwise, you're invisible at the moment of decision-making.
 
 The big question for businesses is: **how do you ensure your brand shows up in those AI-generated answers?**
+
 ---
 ## A disruption to $175B in ad revenue
 
 It’s no coincidence that Google is cautiously rolling out its Search Generative Experience (SGE) while still clinging to the traditional search interface. Search ads generated around **$175 billion** in revenue for Google last year. The stakes are massive. Google is likely sitting on a next-gen experience but reluctant to flip the switch too quickly, since doing so could cannibalise its own business model.
 
 Meanwhile, the pressure is building. Users are discovering that asking an LLM is often faster and more intuitive than clicking through pages of links. If AI models can deliver equally (or more) relevant results, that’s a serious challenge to the traditional discovery model.
+
 ---
 ## Will LLM responses include ads?
 It seems inevitable that we’ll see **ads embedded directly into LLM outputs** at some point. But the challenge is how to include paid content without breaking user trust. One of the reasons LLMs are compelling is because their responses feel helpful and neutral. As soon as monetisation starts skewing outputs, users may become skeptical. 
@@ -34,6 +36,7 @@ It seems inevitable that we’ll see **ads embedded directly into LLM outputs** 
 What would it look like? Would it be like a sponsored Google result clearly indicated as an "AD", or would you just include your brand in responses to certain questions without letting people know. 
 
 Still, someone will crack this, and once they do, businesses will rush to participate.
+
 ---
 ## Could brands exploit LLM outputs?
 
@@ -42,6 +45,7 @@ This also raises an uncomfortable but important possibility: **what if brands st
 Not through prompt injection (which affects model inputs), but by subtly shaping the model’s outputs via data pollution, SEO-style link tactics, or pattern injection into publicly available training data.
 
 This could be the next wave of “black-hat SEO”: figuring out how to *influence what LLMs say* without any formal advertising model in place. If someone figures out how to reliably steer LLM answers, that’s the new equivalent of ranking #1 on Google, and potentially even more powerful, since users don’t see multiple options - just one synthesised response.
+
 ---
 ## Toward “LLM Optimisation” - a new kind of SEO?
 
@@ -55,6 +59,7 @@ We may see the rise of **LLM Optimisation**, or *LLO*. This would involve:
 - Using structured metadata to provide context  
 
 In this new world, **owning your presence across structured and semi-structured data sources becomes critical**.
+
 ---
 ## In short
 
