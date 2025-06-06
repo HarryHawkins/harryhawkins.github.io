@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Used Generative AI to Migrate My Website (and Why I’d Do It Again)
+title: How I Used Generative AI to Migrate My Website
 ---
 
 Recently, I migrated my personal website from a dated custom setup to a more modern static site generator, specifically **[Jekyll](https://jekyllrb.com/)** using the **[Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy)**. The last time I built the site, in 2021, it took days of trial and error, reading outdated documentation, and digging through theme code just to get something functional. This time, I used ChatGPT to help, and I probably completed the same scope of work in 10% of the time. Hours, not days. 
